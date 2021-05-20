@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "acSZ": 0.145,
+      "acSY": -0.181,
+      "acSX": 0.979,
+      "angZ": 51.696,
+      "angY": -77.399,
+      "microsecond": 0,
+      "angX": -49.625,
+      "accZ": 0.916,
+      "accY": -0.61,
+      "accX": -1.587
+    }
+  ],
+  "include_req": false
+}
